@@ -12,9 +12,9 @@ body {
     margin-bottom: 20px;
 }
 .profile-info img {
-    width: 250px; /* Размер фотографии профиля */
+    width: 250px;
     height: 250px;
-    border-radius: 50%; /* Для округления краев */
+    border-radius: 50%;
     margin-bottom: 10px;
 }
 .profile-info h1 {
@@ -68,6 +68,6 @@ footer {
 }
 
 .footer-links img {
-    width: 30px; 
+    width: 30px;
     height: auto;
 }

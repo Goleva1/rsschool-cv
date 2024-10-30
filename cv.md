@@ -23,7 +23,7 @@ function multiply(a, b){
 }
 multiply = function (a, b) {
   return a * b;
-} 
+}
 ```
 ******
 #### Education
