@@ -20,3 +20,31 @@ body {
 .profile-info h1 {
     margin: 0;
 }
+header {
+    background-color: #ffecd4;
+    color: hwb(0 2% 98%);
+    padding: 20px 0;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+}
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffecd4;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
