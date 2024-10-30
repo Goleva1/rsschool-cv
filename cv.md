@@ -26,3 +26,11 @@ multiply = function (a, b) {
 } 
 ```
 ******
+#### Education
++ **Master's** Degree, Saint Petersburg Electrotechnical University "LETI" Automated Electromechanical Complexes and Systems. Department Robotics and Automation of Production Systems
++ **Bachelor's** Degree, National Research University "Moscow Power Engineering Institute" Electric Power Industry and Electrical Engineering. Specialization in Hydroelectric Power Plants
+
+#### Languages
++ English (Upper-Intermidiate) according to the online test at EFset [efset.org](https://www.efset.org/ "www.efset.org")
++ Russian (Native)
++ German (Upper-Intermidiate)
