@@ -17,3 +17,12 @@ I have excellent interpersonal skills, work well in a team, and am always eager 
 + Figma
 + JS (in progress)
 #### Code example
+```
+function multiply(a, b){
+  a * b
+}
+multiply = function (a, b) {
+  return a * b;
+} 
+```
+******
