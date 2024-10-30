@@ -1,1 +1,3 @@
-git add .
+## Viktoriia Goleva
+#### Fronted Developer (Beginer)
+********************************
