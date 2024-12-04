@@ -1,1 +1,1 @@
-# rsschool-cv
+https:// goleva1.github.io/rsschool-cv/cv
